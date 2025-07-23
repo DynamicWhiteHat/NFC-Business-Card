@@ -33,4 +33,4 @@ I created this business card in the past as my first PCB using HackClub Onboard.
 | 47Ω resistor | 1 | **$0.01** |
 | 220 nF capacitor |1 |**$0.06**|
 
-Total Price: $2.00 PCB with $6.58 shipping = $8.58
+Total Price: $20.32 PCB with $8.12 shipping and $9.00 offer: $19.44
