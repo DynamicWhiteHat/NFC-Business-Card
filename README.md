@@ -32,3 +32,5 @@ I created this business card in the past as my first PCB using HackClub Onboard.
 | D21121000251-LED0805_R |  1       |**null**  |
 | 47Ω resistor | 1 | **$0.01** |
 | 220 nF capacitor |1 |**$0.06**|
+
+Total Price: $2.00 PCB with $6.58 shipping = $8.58
